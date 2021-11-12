@@ -1,0 +1,7 @@
+Solución:
+#!/bin/bash 
+  # Este es nuestro primer programa
+  Echo Hola Mundo
+ chmod +x hola.sh
+./hola.sh 
+hola mundo
