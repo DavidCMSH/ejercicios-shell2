@@ -1,0 +1,6 @@
+PATH
+~~~~~~~~~~~~~~~
+exportar
+PATH=$PATH":~/ruta_carpeta_ejercicios"
+exit 0
+~~~~~~~~~~~~~~~
