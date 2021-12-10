@@ -1,0 +1,9 @@
+#######################################################
+#!/bin/bash/
+  #este es nuestro primer programa
+   echo hola mundo
+chmod -x 
+fi
+#######################################################
+/hola.sh
+"hola mundo"
